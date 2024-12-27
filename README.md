@@ -21,7 +21,7 @@ You can view the live demo of this project on GitHub Pages:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kunnub/Apna-College-Clone.git
+   git clone https://github.com/kunnub/Apna_College.git
    ```
 
 2. Open the project folder in your code editor (e.g., Visual Studio Code).
